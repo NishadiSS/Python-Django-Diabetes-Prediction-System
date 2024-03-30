@@ -12,7 +12,7 @@ This project is a web application built with Django that predicts the likelihood
 
 ## 📲Installation
 ### Clone the repository:
- git clone [https://github.com/your_username/diabetes-prediction-app.git]
+ git clone https://github.com/NishadiSS/Python-Django-Diabetes-Prediction-System.git
 ### Navigate to the project directory:
 cd Diabetes_Prediction
 ### Create a virtual environment:
