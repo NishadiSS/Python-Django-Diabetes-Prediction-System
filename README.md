@@ -1,0 +1,1 @@
+# Python-Django-Diabetes-Prediction-System
